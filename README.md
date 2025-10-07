@@ -39,15 +39,19 @@ O projeto PetCare é um aplicativo móvel, desenvolvido em React Native, que dem
 Aqui estão algumas capturas de tela do projeto:
 
 1.  **Telas de Login e Cadastro**
+
     <img src=".github\assets\tela-login-cadastro.png" alt="Telas de Login e Cadastro"/>
 
 2.  **Tela Home**
+
     <img src=".github\assets\tela-home.png" alt="Tela Inicial"/>
 
 3.  **Tela de Agendamento**
+
     <img src=".github\assets\telas-agendamento.png" alt="Telas de Agendamento"/>
 
 4.  **Tela de Clínicas e Mapa**
+
     <img src=".github\assets\tela-clinicas-endereco.png" alt="Telas de Endereços das Clinicas"/>
 
 ---
@@ -65,4 +69,3 @@ Você pode visualizar a interface do projeto diretamente pelo Snack Expo.
     - As funções que dependiam do banco de dados, como salvar agendamentos, não funcionarão. O link serve como uma **demonstração da interface e da navegação** do aplicativo.
 
 ---
-
