@@ -10,10 +10,10 @@ O projeto PetCare é um aplicativo móvel, desenvolvido em React Native, que dem
 
 #### Integrantes do Projeto
 
-<a href="https://github.com/lucasduartexyz/"> - **Lucas da Silva Duarte** </a>
-<a href="https://github.com/GabrielSteins/"> - **Gabriel Mendes Rodrigues**</a>
-<a href="https://github.com/Lara-AS"> - **Lara Stefanny Andrade da Silva**</a>
-<a href="https://github.com/JOAOMARCOS405"> - **João Marcos Silva de Melo** </a>
+- [**Lucas da Silva Duarte**](https://github.com/lucasduartexyz/)
+- [**Gabriel Mendes Rodrigues**](https://github.com/GabrielSteins/)
+- [**Lara Stefanny Andrade da Silva**](https://github.com/Lara-AS)
+- [**João Marcos Silva de Melo**](https://github.com/JOAOMARCOS405)
 
 ---
 
